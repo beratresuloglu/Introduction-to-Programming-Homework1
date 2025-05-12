@@ -1,0 +1,11 @@
+﻿  Programlamaya_giris_odev_1.cpp
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(18,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(19,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(20,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(22,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(69,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(100,30): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(101,30): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(349,197): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1\Programlamaya_giris_odev_1.cpp(373,17): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Programlamaya_giris_odev_1.vcxproj -> C:\Users\BERAT\Desktop\my projects\Programlamaya_giris_odev_1\x64\Debug\Programlamaya_giris_odev_1.exe
